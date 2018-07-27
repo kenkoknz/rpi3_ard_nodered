@@ -13,6 +13,23 @@ other nodes installed:
 node -red-  contrib-thingspeak; node red contrib ds18b20; dashboard; dweet;
 
 
+Updates and upgrades:
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get -f install
+
+
+To upgrade distro:
+
+sudo apt dist-upgrade
+
+
+
+
+
 
 
 
