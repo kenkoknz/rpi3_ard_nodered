@@ -1,0 +1,9 @@
+Download teamviewer armv7 32b from https://www.teamviewer.com/en/download/linux/
+
+update dependencies
+
+sudo apt-get update
+
+sudo apt-get -f install or  sudo apt-get -f upgrade
+
+
