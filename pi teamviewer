@@ -10,3 +10,7 @@ sudo apt-get update
 sudo apt-get -f install or  sudo apt-get -f upgrade
 
 
+teaviewer-host_13.1.1548_armhf.deb
+
+older ver:teamviewer-host_11.0.63329 
+
